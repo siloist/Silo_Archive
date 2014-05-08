@@ -2,6 +2,8 @@
 
 # Lo sguardo interno
 
+## I. LO SGUARDO INTERNO
+
 ​1. Qui si racconta come il non-senso della vita si trasformi in senso e pienezza.
 
 ​2. Qui c'è allegria, amore per il corpo, per  la natura, per l'umanità e per lo spirito.
@@ -596,7 +598,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 6. Per tutto questo, se la tua missione consiste nell’umanizzare la Terra, fortifica le tue mani di nobile lavoratore.
 
-XII. COMPENSAZIONE, RIFLESSO E FUTURO
+## XII. COMPENSAZIONE, RIFLESSO E FUTURO
 
 1. Forse la vita è solo azione e reazione? La fame sogna la sazietà, l’oppresso la libertà; il dolore cerca il piacere e il piacere si annoia di se stesso.
 
