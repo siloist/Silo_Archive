@@ -7,8 +7,8 @@ id: 2191
 group:
 ---
 
-### Silo
-### 6 Maggio 2006, Los Manantiales, Santiago, Chile
+# Parole di Silo all'Inaugurazione Parco Los Manantiales
+_6 Maggio 2006, Los Manantiales, Santiago, Chile_
 
 Care amiche, cari amici.
 

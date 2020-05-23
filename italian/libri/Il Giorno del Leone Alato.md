@@ -7,9 +7,7 @@ lang: it
 id: 2213
 group:
 ---
-
-* TOC
-{:toc}
+# Il Giorno del Leone Alato
 
 # Racconti brevi
 

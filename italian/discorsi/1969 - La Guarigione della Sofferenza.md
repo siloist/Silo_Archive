@@ -8,8 +8,8 @@ id: 2124
 group:
 ---
 
-### Silo
-### 4 maggio 1969, Punta de Vacas, Mendoza, Argentina
+# La Guarigione della Sofferenza
+_4 maggio 1969, Punta de Vacas, Mendoza, Argentina_
 
 Se sei venuto ad ascoltare un uomo che si suppone trasmetta la saggezza, hai sbagliato strada, perché la saggezza non si trasmette né attraverso i libri né attraverso i discorsi; la vera saggezza sta nel fondo della tua coscienza, così come l’amore vero sta nel fondo del tuo cuore.
 

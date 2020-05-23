@@ -7,8 +7,8 @@ id: 2190
 group:
 ---
 
-### Silo
-### 7 Maggio 2005, La Reja, Argentina
+# Inaugurazione della Sala Sudamericana
+_7 Maggio 2005, La Reja, Argentina_
 
 Cari amici.
 

@@ -8,8 +8,7 @@ id: 2227
 group: 1783
 ---
 
-* TOC
-{:toc}
+#  Il Messaggio di Silo
 
 *Nota degli stampatori*
 

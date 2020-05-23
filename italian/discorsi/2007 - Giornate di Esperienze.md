@@ -7,8 +7,8 @@ id: 2194
 group:
 ---
 
-### Silo
-### 3,4,5 Maggio 2007, Punta de Vacas, Mendoza, Argentina
+# Giornate di Esperienze
+_3,4,5 Maggio 2007, Punta de Vacas, Mendoza, Argentina_
 
 Care amiche, cari amici, pellegrini e visitatori del Parco Punta de Vacas. Vorrei toccare il nucleo principale di queste giornate, che è costituito dalla Riconciliazione come esperienza spirituale profonda. Ma so che saprete perdonarmi se faccio un giro, posticipando il tema per alcuni minuti, al fine di ambientare questa situazione alquanto straordinaria che stiamo vivendo.
 

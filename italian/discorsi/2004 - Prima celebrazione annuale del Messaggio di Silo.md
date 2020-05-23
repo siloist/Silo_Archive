@@ -7,8 +7,8 @@ id: 2189
 group:
 ---
 
-### Silo
-### 4 Maggio 2004, Punta de Vacas, Mendoza, Argentina
+# Parole pronunciate da Silo in occasione della prima celebrazione annuale del Messaggio di Silo
+_4 Maggio 2004, Punta de Vacas, Mendoza, Argentina_
 
 Cari amici.
 

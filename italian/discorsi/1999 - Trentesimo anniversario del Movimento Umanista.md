@@ -7,8 +7,8 @@ id: 2187
 group:
 ---
 
-### Silo
-### 4 maggio 1999, Punta de Vacas, Mendoza, Argentina
+# Trentesimo anniversario del Movimento Umanista
+_4 maggio 1999, Punta de Vacas, Mendoza, Argentina_
 
 *Parole del Dott. Salvatore Puledda in occasione dell'inaugurazione del monolito commemorativo del trentesimo anniversario - Punta de Vacas 4 Maggio 1999*
 

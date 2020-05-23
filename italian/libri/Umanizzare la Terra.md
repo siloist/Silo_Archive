@@ -8,8 +8,7 @@ id: 2209
 group:
 ---
 
-* TOC
-{:toc}
+# Umanizzare la terra
 
 # Lo sguardo interno
 
