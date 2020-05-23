@@ -1,4 +1,15 @@
-# Umanizzare la terra
+---
+title: Umanizzare la terra
+permalink: /it/libri/umanizzare-la-terra/
+edit: false
+date: 2005-10-17T15:31:39+00:00
+lang: it
+id: 2209
+group:
+---
+
+* TOC
+{:toc}
 
 # Lo sguardo interno
 
@@ -190,7 +201,7 @@
 
 ​3. Il vero stato di veglia è diverso dagli altri livelli di coscienza.
 
-​4. E' possibile condurre la Forza al punto di reale risveglio (si intende per "Forza" l'energia mentale che accompagna determinate immagini, e per "punto" il "luogo" dello spazio di rappresentazione in cui si colloca un’immagine).
+​4. È possibile condurre la Forza al punto di reale risveglio (si intende per "Forza" l'energia mentale che accompagna determinate immagini, e per "punto" il "luogo" dello spazio di rappresentazione in cui si colloca un’immagine).
 
 *Queste conclusioni mi hanno condotto a riconoscere nelle preghiere dei popoli antichi il germe di una grande verità che si è oscurata nei riti e nelle pratiche esteriori. Quei popoli non riuscirono a sviluppare il lavoro interno che, se realizzato alla perfezione, mette l'uomo in contatto con la sua fonte luminosa. Infine, mi sono reso conto che le mie "scoperte" non erano tali, ma che erano dovute alla rivelazione interiore a cui giungono tutti coloro che, senza contraddizioni, cercano la luce nel proprio cuore.*
 
@@ -232,7 +243,7 @@
 
 ## XIV. La guida del cammino interno
 
-*Se hai compreso ciò che ho spiegato fin qui, puoi sperimentare la manifestazione della Forza mediante un semplice lavoro. Collocarsi in una posizione mentale più o meno corretta (come se si trattasse di predisporsi ad un'attività tecnica) non è lo stesso che assumere un tono ed un'apertura emotiva simili a quelli ispirati dalla poesia. E' per questo che il linguaggio usato per trasmettere tali verità tende a favorire quest’ultimo atteggiamento, che pone più facilmente in presenza della percezione interna e non di un'idea sulla "percezione interna".*
+*Se hai compreso ciò che ho spiegato fin qui, puoi sperimentare la manifestazione della Forza mediante un semplice lavoro. Collocarsi in una posizione mentale più o meno corretta (come se si trattasse di predisporsi ad un'attività tecnica) non è lo stesso che assumere un tono ed un'apertura emotiva simili a quelli ispirati dalla poesia. È per questo che il linguaggio usato per trasmettere tali verità tende a favorire quest’ultimo atteggiamento, che pone più facilmente in presenza della percezione interna e non di un'idea sulla "percezione interna".*
 
 *Ora segui con attenzione ciò che ti spiegherò, perché si tratta del paesaggio interiore che puoi incontrare lavorando con la Forza e delle direzioni che puoi imprimere ai tuoi movimenti mentali.*
 
@@ -278,7 +289,7 @@
 
 ​7. Quando lo vorrai, potrai porre termine a questo singolare stato (se già prima non si è stemperato semplicemente per il trascorrere del tempo) immaginando o sentendo che la sfera si contrae e poi esce da te nello stesso modo in cui era arrivata al momento di iniziare l'esperienza.
 
-​8. E' importante comprendere che molti stati alterati di coscienza sono stati e sono ottenuti quasi sempre mettendo in azione meccanismi simili a quelli descritti. Rivestendoli però di strani rituali o magari potenziandoli mediante pratiche basate sullo sfinimento fisico, la motricità sfrenata, la ripetizione o le posture, che in ogni caso alterano la respirazione e distorcono la sensazione generale dell'intracorpo. Devi porre in questo campo l'ipnosi, la medianità e anche l'azione di droghe che, pur agendo per altra via, producono alterazioni simili. Sicuramente, tutti i casi menzionati sono caratterizzati dalla mancanza di controllo e di conoscenza di quanto accade. Non fidarti di queste manifestazioni e considerale come semplici "trances", attraverso le quali sono passati gli ignoranti, gli sperimentatori, e perfino i "santi", come raccontano le leggende.
+​8. È importante comprendere che molti stati alterati di coscienza sono stati e sono ottenuti quasi sempre mettendo in azione meccanismi simili a quelli descritti. Rivestendoli però di strani rituali o magari potenziandoli mediante pratiche basate sullo sfinimento fisico, la motricità sfrenata, la ripetizione o le posture, che in ogni caso alterano la respirazione e distorcono la sensazione generale dell'intracorpo. Devi porre in questo campo l'ipnosi, la medianità e anche l'azione di droghe che, pur agendo per altra via, producono alterazioni simili. Sicuramente, tutti i casi menzionati sono caratterizzati dalla mancanza di controllo e di conoscenza di quanto accade. Non fidarti di queste manifestazioni e considerale come semplici "trances", attraverso le quali sono passati gli ignoranti, gli sperimentatori, e perfino i "santi", come raccontano le leggende.
 
 ​9. Ma potresti non essere riuscito a provocare il passaggio pur avendo osservato quanto è stato raccomandato, Questo non può diventare una fonte di preoccupazione; sarà piuttosto un segnale della tua mancanza di "scioltezza" interna, il che potrebbe riflettere molta tensione, problemi riguardo alla dinamica delle immagini, insomma frammentazione del comportamento emotivo... Cosa che, del resto, è presente nella vita quotidiana.
 
@@ -302,7 +313,7 @@
 
 ​4. La Forza (l'energia della rappresentazione della sensazione dell'intracorpo), ha preso una via crepuscolare nelle società represse, dove si sono andati moltiplicando gli "indemoniati", gli "stregoni", i sacrileghi ed i criminali di ogni tipo, che godevano della sofferenza e della distruzione della vita e della bellezza. In alcune tribù e in alcune civiltà i criminali si trovavano tanto tra coloro che giustiziavano che tra i giustiziati. In altri casi si è perseguitato tutto ciò che era scienza e progresso, perché si opponeva all'irrazionale, al crepuscolare e al represso.
 
-​5. In alcuni popoli primitivi e anche in altri considerati "di civiltà avanzata", esiste ancora la repressione del sesso. E' evidente che il segno distruttivo è grande in entrambi, anche se nei due casi l'origine di questa situazione è diversa.
+​5. In alcuni popoli primitivi e anche in altri considerati "di civiltà avanzata", esiste ancora la repressione del sesso. È evidente che il segno distruttivo è grande in entrambi, anche se nei due casi l'origine di questa situazione è diversa.
 
 ​6. Se mi chiedi ulteriori spiegazioni, ti dirò che in realtà il sesso è santo, ed è il centro dal quale scaturisce la vita ed ogni creatività. Ma quando il suo funzionamento non è risolto, è da esso che sorge ogni impulso di distruzione.
 
@@ -312,7 +323,7 @@
 
 ## XVIII. AZIONE E REAZIONE DELLA FORZA
 
-*Prima ti ho spiegato: "Quando incontri una grande forza, allegria e bontà nel tuo cuore, e quando ti senti libero e senza contraddizioni, ringrazia immediatamente dentro di te ".*
+*Prima ti ho spiegato: "Quando incontri una grande forza, allegria e bontà nel tuo cuore, e quando ti senti libero e senza contraddizioni, ringrazia immediatamente dentro di te".*
 
 ​1. "Ringraziare" significa concentrare gli stati d'animo positivi associati ad un’immagine, ad una rappresentazione. Questo collegamento consente, nei momenti negativi, di far sorgere lo stato positivo evocando l’immagine che l'aveva precedentemente accompagnato. Potendo, poi, essere potenziata per ripetizione, questa "carica" mentale risulterà capace di scacciare le emozioni negative imposte da determinate circostanze.
 
@@ -328,13 +339,13 @@
 
 ​3. Arrivati a esso si trova il rifugio della regressione. Da lì partono due cammini: quello del pentimento e quello che prima è servito per l'ascesa, cioè il cammino della morte. Se prendi il primo è perché la tua decisione tende a rompere con la tua vita passata. Se torni indietro per il cammino della morte, ricadi negli abissi con la sensazione di trovarti in un circolo chiuso.
 
-​4. Bene, ti ho detto che c'era un altro sentiero per sfuggire alla vitalità abissale, quello della mutazione. Se scegli quella via è perché vuoi emergere dal tuo penoso stato senza essere disposto ad abbandonare alcuni dei suoi apparenti benefici. E' dunque un falso cammino, conosciuto come "cammino della mano torta". Molti mostri sono usciti dalle profondità di quel tortuoso cunicolo. Essi hanno voluto prendere d'assalto il cielo senza abbandonare gli inferni, e pertanto hanno proiettato nel mondo medio infinita contraddizione.
+​4. Bene, ti ho detto che c'era un altro sentiero per sfuggire alla vitalità abissale, quello della mutazione. Se scegli quella via è perché vuoi emergere dal tuo penoso stato senza essere disposto ad abbandonare alcuni dei suoi apparenti benefici. È dunque un falso cammino, conosciuto come "cammino della mano torta". Molti mostri sono usciti dalle profondità di quel tortuoso cunicolo. Essi hanno voluto prendere d'assalto il cielo senza abbandonare gli inferni, e pertanto hanno proiettato nel mondo medio infinita contraddizione.
 
 ​5. Suppongo che, ascendendo dal regno della morte, e attraverso il tuo cosciente pentimento, tu sia già arrivato alla dimora della tendenza. Due sottili cornici sostengono la tua dimora: la conservazione e la frustrazione. La conservazione è falsa e instabile. Camminando su di essa ti illudi con l'idea di permanenza, mentre in realtà discendi velocemente. Se prendi il cammino della frustrazione, la tua salita è penosa, ma è anche l'unica non-falsa.
 
 ​6. Di fallimento in fallimento, puoi arrivare al prossimo riposo, che  si chiama "dimora della deviazione". Attento alle due vie che ora hai davanti: o prendi il cammino della risoluzione, che ti porta alla generazione, o prendi quello del risentimento, che ti fa discendere un'altra volta verso la regressione. Lì ti trovi davanti al dilemma: o ti decidi per il labirinto della vita cosciente (e lo fai con risoluzione), o torni risentito alla tua vita precedente. Sono numerosi coloro che, non essendo riusciti a superarsi, hanno troncato qui le loro possibilità.
 
-​7. Ma tu che sei asceso con risoluzione ti trovi ora nella dimora conosciuta come "generazione". Lì hai tre porte: una si chiama "Caduta", l'altra si chiama "Tentativo" e la terza "Degradazione". La caduta ti porta direttamente alle profondità, e soltanto un incidente esterno potrebbe spingerti versa di essa. E' difficile che tu scelga questa porta. Quella della degradazione invece ti conduce indirettamente agli abissi, facendoti ripercorrere i cammini in una sorta di turbolenta spirale, nella quale riconsidererai di continuo tutto ciò che hai perso e tutto ciò che hai sacrificato: questo esame di coscienza, che porta alla Degradazione, è certamente un falso esame, nel quale sottovaluti e rendi sproporzionate alcune delle cose che paragoni. Confronti lo sforzo dell'ascesa con i "benefici" che hai abbandonato. Ma se guardi più da vicino, vedrai che non hai abbandonato nulla per quel motivo: i motivi sono stati altri. Pertanto la Degradazione inizia con la falsificazione dei motivi che, a quanto sembra, erano estranei all'ascesa. Io chiedo ora: da che cosa è tradita la mente? Forse dai falsi motivi dell'entusiasmo iniziale? Forse dalla difficoltà dell'impresa? Forse dai falsi ricordi di sacrifici che non ci sono stati o che sono stati causati da altri motivi? Io ti dico e ti chiedo ora: la tua casa è bruciata da tempo, per questo hai deciso di iniziare l'ascesa; ma ora pensi che essa sia bruciata a causa della tua ascesa? Hai dato per caso uno sguardo a quello che è successo alle case vicine?... Non c'è dubbio che tu debba scegliere la porta di mezzo.
+​7. Ma tu che sei asceso con risoluzione ti trovi ora nella dimora conosciuta come "generazione". Lì hai tre porte: una si chiama "Caduta", l'altra si chiama "Tentativo" e la terza "Degradazione". La caduta ti porta direttamente alle profondità, e soltanto un incidente esterno potrebbe spingerti versa di essa. È difficile che tu scelga questa porta. Quella della degradazione invece ti conduce indirettamente agli abissi, facendoti ripercorrere i cammini in una sorta di turbolenta spirale, nella quale riconsidererai di continuo tutto ciò che hai perso e tutto ciò che hai sacrificato: questo esame di coscienza, che porta alla Degradazione, è certamente un falso esame, nel quale sottovaluti e rendi sproporzionate alcune delle cose che paragoni. Confronti lo sforzo dell'ascesa con i "benefici" che hai abbandonato. Ma se guardi più da vicino, vedrai che non hai abbandonato nulla per quel motivo: i motivi sono stati altri. Pertanto la Degradazione inizia con la falsificazione dei motivi che, a quanto sembra, erano estranei all'ascesa. Io chiedo ora: da che cosa è tradita la mente? Forse dai falsi motivi dell'entusiasmo iniziale? Forse dalla difficoltà dell'impresa? Forse dai falsi ricordi di sacrifici che non ci sono stati o che sono stati causati da altri motivi? Io ti dico e ti chiedo ora: la tua casa è bruciata da tempo, per questo hai deciso di iniziare l'ascesa; ma ora pensi che essa sia bruciata a causa della tua ascesa? Hai dato per caso uno sguardo a quello che è successo alle case vicine?... Non c'è dubbio che tu debba scegliere la porta di mezzo.
 
 ​8. Sali per la scalinata del tentativo ed arriverai ad una cupola instabile. Da lì, spostati per un cammino stretto e sinuoso che conoscerai come la "volubilità", fino ad arrivare a uno spazio ampio e vuoto come una piattaforma, che porta il nome di "spazio-aperto-dell'energia".
 
@@ -346,7 +357,7 @@
 
 ​12. Se nella spianata riesci ad arrivare al giorno, sorgerà di fronte ai tuoi occhi il sole raggiante, che ti rivelerà per la prima volta la realtà. Allora vedrai che in tutto l'esistente vive un Piano.
 
-​13. E' difficile che tu cada da lì, a meno che decida volontariamente di scendere verso regioni più oscure per portare la luce alle tenebre.
+​13. È difficile che tu cada da lì, a meno che decida volontariamente di scendere verso regioni più oscure per portare la luce alle tenebre.
 
 *Non giova andare oltre su questi temi perché essi, senza esperienza, ingannano e trasferiscono al campo dell'immaginario ciò che è realizzabile. Che quanto detto fin qui possa servire! Se quel che ho spiegato non ti fosse utile, che cosa potresti obiettare se in ogni modo niente ha fondamento né ragione per lo scetticismo, prossimo all'immagine di uno specchio, al suono di un'eco, all'ombra di un'ombra?*
 
@@ -370,9 +381,9 @@
 
 *Così, oggi vola verso le stelle l'eroe di quest'età. Vola attraverso regioni prima ignorate. Vola verso l'esterno del suo mondo e, senza saperlo, è spinto verso il centro interno e luminoso.*
 
-#Il paesaggio interno
+# IL PAESAGGIO INTERNO
 
-##I. LA DOMANDA
+## I. LA DOMANDA
 
 1. Ecco la mia domanda: con il trascorrere della vita, cresce in te la felicità o la sofferenza? Non chiedermi di definire queste parole. Rispondi in base a ciò che senti...
 
@@ -382,7 +393,7 @@
 
 4. Non c’è passione né idea né atto umano che possa ignorare l’abisso. Parliamo allora dell’unica cosa che meriti di essere trattata: l’abisso e ciò che l’oltrepassa.
 
-##II. LA REALTA’
+## II. LA REALTA’
 
 1. Che cosa vuoi tu? Se dici che la cosa più importante è l’amore o la sicurezza, allora parli di stati d’animo, di qualcosa che non vedi.
 
@@ -404,7 +415,7 @@
 
 10. Allora, che il tuo cuore affermi: “Amo la realtà che costruisco!”.
 
-##III. IL PAESAGGIO ESTERNO
+## III. IL PAESAGGIO ESTERNO
 
 Guarda quella coppia, come cammina lentamente. Mentre lui le cinge la vita, lei reclina dolcemente il capo sulla spalla amica. Ed avanzano nell’autunno dalle foglie che volteggiano crepitanti... tra sfumature di giallo, di rosso, di viola. Giovani e belli, eppure avanzano verso la sera dalla nebbia grigio piombo. Una pioggia leggera e fredda e giochi per bambini, senza bambini, in giardini deserti.
 
@@ -422,7 +433,7 @@ Guarda quella coppia, come cammina lentamente. Mentre lui le cinge la vita, lei 
 
 7. Tutto questo mondo che non hai scelto ma che ti è stato dato affinché tu lo umanizzi, è il paesaggio che più cresce al crescere della vita. Allora, il tuo cuore non dica mai: “Né l’autunno né il mare né i monti coperti di ghiaccio hanno alcun legame con me”, ma affermi invece: “Amo la realtà che costruisco!”.
 
-##IV. IL PAESAGGIO UMANO
+## IV. IL PAESAGGIO UMANO
 
 Se una stella lontana è legata a te, che debbo pensare di un paesaggio vivente, dove i cervi corrono tra gli alberi annosi, dove gli animali più selvaggi leccano dolcemente i loro piccoli? Che debbo pensare del paesaggio umano, dove convivono opulenza e miseria, dove alcuni bambini ridono mentre altri non trovano la forza per esprimere il loro pianto?
 
@@ -442,7 +453,7 @@ Ogni mondo a cui aspiri, ogni giustizia che invochi, ogni amore che cerchi, ogni
 Ma come lo farai?
 Comincia a renderti conto di questo: anche se ti sposti in un luogo diverso, porti sempre con te il tuo paesaggio interno.
 
-##V. IL PAESAGGIO INTERNO
+## V. IL PAESAGGIO INTERNO
 
 1. Tu cerchi ciò che credi che ti farà felice. Ma ciò che tu credi non corrisponde a ciò che l’altro cerca. Potrebbe accadere che tu e l’altro desideriate ardentemente cose opposte e che, per questo, arriviate a credere che la felicità dell’uno si opponga alla felicità dell’altro. Ma potrebbe anche accadere che desideriate la stessa cosa e che, essendo questa unica od insufficiente, per altra via arriviate ancora a credere che la felicità dell’uno si opponga alla felicità dell’altro.
 
@@ -454,7 +465,7 @@ Comincia a renderti conto di questo: anche se ti sposti in un luogo diverso, por
 
 5. E’ chiaro che il tuo paesaggio interno non è solo ciò che credi delle cose, ma anche ciò che ricordi, senti ed immagini di te stesso, degli altri, dei fatti, dei valori e del mondo in generale. Forse è questo che dobbiamo comprendere: paesaggio esterno è ciò che percepiamo delle cose; paesaggio interno è ciò che filtriamo di esse con il setaccio del nostro mondo interno. Questi due paesaggi sono una cosa sola e costituiscono la nostra indivisibile visione della realtà.
 
-VI. CENTRO E RIFLESSO
+## VI. CENTRO E RIFLESSO
 
 “Paesaggio esterno è ciò che percepiamo delle cose; paesaggio interno è ciò che filtriamo di esse con il setaccio del nostro mondo interno. Questi paesaggi sono una cosa sola e costituiscono la nostra indivisibile visione della realtà”. E prenderemo direzioni diverse a seconda della visione che abbiamo della realtà.
 
@@ -472,7 +483,7 @@ VI. CENTRO E RIFLESSO
 
 7. Cavaliere che vai a cavallo del tempo, che cos’è il tuo corpo se non il tempo stesso?
 
-##VII. DOLORE, SOFFERENZA E SENSO DELLA VITA
+## VII. DOLORE, SOFFERENZA E SENSO DELLA VITA
 
 1. La fame, la sete, la malattia ed ogni danno fatto al corpo, sono il dolore. Il timore, la frustrazione, la disperazione ed ogni danno fatto alla mente, sono la sofferenza. Il dolore fisico retrocede con il progredire della scienza e della società. La sofferenza mentale retrocede con l’avanzare della fede nella vita, vale a dire a misura che la vita acquista un senso.
 
@@ -486,7 +497,7 @@ VI. CENTRO E RIFLESSO
 
 6. Non compirai la tua missione se non userai le tue forze per vincere il dolore e la sofferenza in coloro che ti circondano. E se riuscirai a far sì che essi, a loro volta, intraprendano il compito di umanizzare il mondo, il loro destino si aprirà e per loro inizierà una vita nuova.
 
-##VIII. IL CAVALIERE E LA SUA OMBRA
+## VIII. IL CAVALIERE E LA SUA OMBRA
 
 Quando il sole imporporò il cammino, l’ombra si allungò tra pietre e dure sterpaglie. E il cavaliere cominciò a rallentare l’andatura fino a che si fermò vicino a un fuoco giovane. E un vecchio, che accarezzava le fiamme con le mani, salutò il cavaliere. Questi scese di sella e parlarono. Poi il cavaliere continuò per la sua strada.
 Quando l’ombra cadde sotto gli zoccoli del cavallo, il cavaliere si fermò un istante e scambiò alcune parole con un uomo che lo aveva chiamato dal ciglio della strada.
@@ -506,7 +517,7 @@ Ma egli si sentiva un bambino, al centro di se stesso.
 Allora tutto cominciò a oscurarsi e quando non poté riconoscere altro che la nera oscurità, il cavaliere si svegliò.
 Aprì gli occhi e vide la luce del sole. Poi montò a cavallo e, vedendo che l’ombra si allungava, disse tra sé: “E’ la contraddizione ciò che inverte la vita e genera sofferenza... Il sole cala affinché il giorno si trasformi in notte. Ma come sarà il giorno, dipenderà da ciò che io ne farò.”
 
-##IX. CONTRADDIZIONE E UNITA’
+## IX. CONTRADDIZIONE E UNITA’
 
 1. La contraddizione inverte la vita. E’ proprio l’inversione della corrente crescente della vita a essere sperimentata come sofferenza. Per questo la sofferenza è il segnale che avverte della necessità di cambiare la direzione delle forze che si oppongono alla crescita della vita.
 
@@ -560,7 +571,7 @@ Aprì gli occhi e vide la luce del sole. Poi montò a cavallo e, vedendo che l�
 
 26. Se vuoi crescere, dovrai aiutare a crescere coloro che ti circondano. E ciò che sto affermando, che tu sia d’accordo o meno con me, non ammette alternative.
 
-##X. L’AZIONE VALIDA
+## X. L’AZIONE VALIDA
 
 1. Qualunque inversione della corrente crescente della vita viene sperimentata come sofferenza. Quindi la contraddizione non è la sola fonte di danno per la mente. Ma mentre numerose forme di sofferenza possono essere superate per la forza stessa delle circostanze, la contraddizione continua a tessere la sua oscura rete di ombre.
 
@@ -582,7 +593,7 @@ Aprì gli occhi e vide la luce del sole. Poi montò a cavallo e, vedendo che l�
 
 10. Non discuteremo qui la natura dei principi di azione valida. In ogni modo, terremo conto della necessità della loro esistenza.
 
-##XI. PROIEZIONE DEL PAESAGGIO INTERNO
+## XI. PROIEZIONE DEL PAESAGGIO INTERNO
 
 Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle azioni che danno unità alla corrente della vita. Si potrebbe credere che tutto questo rimanga chiuso all’interno dell’essere umano o che, nel migliore dei casi, si manifesti all’esterno come azione individuale priva di grandi conseguenze. Ma in realtà accade il contrario.
 
@@ -618,7 +629,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 9. Che in futuro, nei momenti più oscuri, la tua allegria ti faccia ricordare questa frase: “La vita cerca la crescita, non la compensazione del nulla!”.
 
-##XIII. I “SENSI” PROVVISORI
+## XIII. I “SENSI” PROVVISORI
 
 1. Quando, spinto dal pendolo della compensazione, cerco un senso che giustifichi la mia esistenza, mi muovo verso ciò di cui ho bisogno o di cui credo di aver bisogno. Posso raggiungere o no ciò che cerco, ma in ogni caso, che ne sarà del senso che mi sono dato (inteso come movimento in una certa direzione)?
 
@@ -636,7 +647,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 8. Un senso che non sia solo provvisorio non accetterà la morte come fine della vita, ma affermerà la trascendenza come massima disubbidienza all’apparente Destino. E colui che afferma che le sue azioni mettono in moto una serie di avvenimenti che continuano negli altri ha fra le mani parte del filo dell’eternità.
 
-##XIV. LA FEDE
+## XIV. LA FEDE
 
 1. Ogni volta che ascolto la parola “fede”, dentro di me sorge un sospetto.
 
@@ -662,7 +673,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 12. Se riesci ad avere fede in te stesso e nella parte migliore di coloro che ti circondano, fede nel nostro mondo ed in una vita sempre aperta al futuro, tutti i problemi che fino ad oggi ti sono parsi invincibili si ridimensioneranno.
 
-##XV. DARE E RICEVERE
+## XV. DARE E RICEVERE
 
 1. Vediamo quale rapporto stabilisci con il tuo paesaggio esterno. Forse ti succede di considerare gli oggetti, le persone, i valori, gli affetti, come cose che sono state messe davanti a te perché tu le scelga e le divori per soddisfare i tuoi particolari appetiti. E’ probabile che una tale visione centripeta del mondo riveli una contrazione che va dal pensiero fino ai muscoli.
 
@@ -684,7 +695,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 10. Terminiamo questo punto: vuoi superare la tua contraddizione profonda? Se è così, compi azioni valide. Ed esse saranno veramente tali quando darai aiuto a coloro che ti circondano.
 
-##XVI. I MODELLI DI VITA
+## XVI. I MODELLI DI VITA
 
 1. Nel tuo paesaggio interno c’è una donna o un uomo ideale che hai sempre cercato nel paesaggio esterno attraverso tante relazioni ma senza mai poterla o poterlo trovare. E’ come se due pietre focaie non si incontrassero mai, salvo che nel breve momento in cui divampa la fiamma dell’amore totale.
 
@@ -698,7 +709,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 6. E’ saggio colui che conosce i propri modelli profondi, ma è ancora più saggio colui che riesce a porli al servizio delle cause migliori.
 
-##XVII. LA GUIDA INTERNA
+## XVII. LA GUIDA INTERNA
 
 1. Chi suscita in te tanta ammirazione da farti desiderare di essere come lui?
 
@@ -722,7 +733,7 @@ Abbiamo parlato del paesaggio, della sofferenza, della contraddizione e delle az
 
 11. Quindi è importante che tu rivolga la tua attenzione alle migliori qualità delle altre persone, perché così proietterai nel mondo il modello, che grazie a questo, hai potuto configurare dentro di te.
 
-##XVIII. IL CAMBIAMENTO
+## XVIII. IL CAMBIAMENTO
 
 Guardiamo indietro per un istante.
 Abbiamo considerato l’essere umano legato al mondo da un rapporto attivo e strettissimo. Abbiamo detto che le sue azioni si manifestano nel paesaggio esterno in accordo al modo in cui il suo paesaggio interno si è configurato. Le azioni umane sono di vario tipo; ma ciò che definisce una vita sono le attività contraddittorie e quelle unitive. Abbiamo anche detto che la contraddizione inverte la vita, generando sofferenza che finisce per contaminare il mondo. Le azioni unitive aprono il futuro, facendo diminuire la sofferenza in chi le compie e nel mondo.
@@ -741,9 +752,9 @@ Esiste una grande energia che può essere messa al servizio della vita: è la fe
 
 6. Questo è il punto in cui ti lascio. Se ti disponi a modificare la tua vita, trasformerai il mondo e non trionferà l’abisso ma ciò che l’oltrepassa.
 
-#Il paesaggio umano
+# IL PAESAGGIO UMANO
 
-##I. I PAESAGGI E GLI SGUARDI
+## I. I PAESAGGI E GLI SGUARDI
 
 1. Parliamo di paesaggi e di sguardi, riprendendo quanto detto in un altro passo: “paesaggio esterno è ciò che percepiamo delle cose; paesaggio interno è ciò che filtriamo di esse con il setaccio del nostro mondo interno. Questi due paesaggi sono una cosa sola e costituiscono la nostra indivisibile visione della realtà.”
 
@@ -759,7 +770,7 @@ Esiste una grande energia che può essere messa al servizio della vita: è la fe
 
 Conviene inoltre distinguere fra mondo interno e “paesaggio interno”, fra natura e “paesaggio esterno”, fra società e “paesaggio umano”, mettendo bene in chiaro che quando si dice “paesaggio” si sta sempre includendo chi guarda; situazione, questa, ben differente da quella in cui il mondo interno (o psicologico), la natura o la società appaiono ingenuamente esistenti in sé, esclusi da ogni interpretazione.
 
-##II. L’UMANO E LO SGUARDO ESTERNO
+## II. L’UMANO E LO SGUARDO ESTERNO
 
 1. Nulla di sostanziale ci dice l’affermazione: “l’uomo si costituisce in un ambiente”, o l’altra: “l’uomo si costituisce grazie all’ambiente” (che è quello naturale per alcuni, quello sociale per altri e le due cose insieme per altri ancora). L’inconsistenza di simili affermazioni diventa ancora più grave se l’enfasi viene posta sul termine di collegamento “si costituisce” mentre si dà per scontata la comprensione dei termini “uomo” ed “ambiente” nel senso che si considera “ambiente” ciò che circonda o meglio sommerge l’essere umano, e “uomo” ciò che sta dentro tale “ambiente” o ne è sommerso. Anche così, come all’inizio, rimaniamo all’interno di un circolo di vacuità. Ciononostante non ci sfugge che, pur se i due termini messi in rapporto indicano entità separate, è presente l’intenzione di superare una tale separazione con un collegamento truccato, con la parola “si costituisce”, che ha implicazioni di genesi, cioè di spiegazione di un qualcosa a partire dalla situazione di origine.
 
@@ -771,13 +782,13 @@ Conviene inoltre distinguere fra mondo interno e “paesaggio interno”, fra na
 
 5. L’idea di “natura umana” è quella che implicitamente ha corrisposto allo sguardo esterno sull’umano. Ma se sappiamo che l’uomo è un essere storico che trasforma la propria natura attraverso l’attività sociale, il concetto di “natura umana” appare subordinato al fare, all’esistere e sottomesso alle trasformazioni e alle rivelazioni che tale esistere determina. In questo senso, le potenzialità del corpo, inteso come protesi dell’intenzione, trovano il loro campo di sviluppo nell’opera di umanizzazione del mondo. Ed il mondo non può più essere visto come semplice esteriorità, ma come “paesaggio” naturale od umano, sottoposto a trasformazioni umane reali o possibili. E’ in questo fare che l’uomo trasforma se stesso.
 
-##III. IL CORPO UMANO COME OGGETTO DELL’INTENZIONE
+## III. IL CORPO UMANO COME OGGETTO DELL’INTENZIONE
 
 1. Il corpo, in quanto oggetto naturale, è soggetto a trasformazioni naturali ed è ovviamente suscettibile anche di trasformazioni dovute all’intenzione umana e questo tanto nelle sue espressioni più esterne che nel suo funzionamento intimo. Inteso come protesi dell’intenzione, il corpo acquista il suo significato più rilevante. Tuttavia, tra il controllo immediato (senza intermediazioni) del proprio corpo e l’adeguamento di questo ad altre necessità e disegni si inserisce un processo sociale che non dipende dall’individuo singolo ma che include altri individui.
 
 2. Mentre la mia intenzionalità ha la proprietà della mia struttura psicofisica, gli oggetti esterni mi appaiono estranei alla mia proprietà immediata e risultano governabili solo in forma mediata (per azione del mio corpo). Un tipo particolare di oggetto, poi, è il corpo dell’altro, che intuisco come proprietà di un’intenzione altrui. E questo rapporto di estraneità mi colloca nella situazione di “essere visto da fuori”, di essere visto a partire dall’intenzione di un altro. Per questo la visione che ho dell’estraneo è un’interpretazione, un “paesaggio” che si estenderà a qualunque oggetto che porti il marchio dell’intenzione umana, e questo vale sia quando la persona che l’ha prodotto o manipolato appartiene al presente sia quando appartiene al passato. Nel “paesaggio umano” mi è possibile annullare l’intenzione di altri che finisco per considerare protesi del mio corpo; per far questo devo “svuotarli” della loro soggettività totalmente o, per lo meno, in quelle regioni del pensare, del sentire o dell’agire che desidero controllare immediatamente. Tale oggettivazione necessariamente mi disumanizza, per cui finisco per giustificare una tale situazione attribuendola a una Forza più grande di me che non controllo (la “Passione”, “Dio”, la “Causa”, la “Disuguaglianza naturale”, il “Destino”, la “Società” ecc.).
 
-##IV. MEMORIA E PAESAGGIO UMANO
+## IV. MEMORIA E PAESAGGIO UMANO
 
 1. Posto di fronte ad un paesaggio sconosciuto, faccio appello alla memoria; così scopro che è il “riconoscimento” della sua assenza in me a farmi capire che si tratta di qualcosa di nuovo. Altrettanto mi succede in un paesaggio umano il cui linguaggio, i cui modi di vestire e le cui usanze sociali contrastano fortemente con il paesaggio nel quale i miei ricordi si sono formati. Ma in una società in cui il cambiamento è lento, il mio paesaggio precedente tende a imporsi sulle novità, che finisco per percepire come “irrilevanti”.
 
@@ -785,9 +796,9 @@ Conviene inoltre distinguere fra mondo interno e “paesaggio interno”, fra na
 
 3. Questo mi fa comprendere come una generazione, allorché accede al potere, tenda a plasmare all’esterno miti, teorie, desideri e valori propri di un paesaggio che oggi non esiste più ma che continua a vivere ed ad operare come ricordo sociale, in quanto si tratta del paesaggio in cui quell’insieme si è formato. E tale paesaggio era stato assimilato come paesaggio umano dai figli e come “irrilevanza” o “deviazione” dai loro genitori. E per quanto le generazioni lottino fra loro, quella che conquista il potere esercita sempre un’azione di ritardo in quanto impone il proprio paesaggio di formazione ad un paesaggio umano ormai modificato o che essa stessa ha contribuito a modificare. Pertanto, qualunque trasformazione messa in atto da un nuovo insieme umano risulta sempre affetta da un ritardo che affonda le sue radici nell’epoca di formazione di tale insieme. Ed è con questo ritardo che si scontra il nuovo insieme che si sta formando.
 
-Quando parlavo dell’accesso al “potere” da parte di una generazione, intendevo riferirmi – ed immagino che questo sia risultato chiaro - alle diverse espressioni di tale potere: politiche, sociali, culturali e così via.
+_Quando parlavo dell’accesso al “potere” da parte di una generazione, intendevo riferirmi – ed immagino che questo sia risultato chiaro - alle diverse espressioni di tale potere: politiche, sociali, culturali e così via._
 
-##V. LA DISTANZA CHE IL PAESAGGIO UMANO IMPONE
+## V. LA DISTANZA CHE IL PAESAGGIO UMANO IMPONE
 
 1. Ogni generazione possiede una sua astuzia, per cui non esiterà ad appellarsi al rinnovamento più sofisticato se tale espediente le permetterà di accrescere il proprio potere. Ma questo crea innumerevoli difficoltà: infatti, la trasformazione a cui una determinata generazione ha dato impulso spinge verso il futuro una società che già nella dinamica dell’oggi risulta in contraddizione con il paesaggio sociale interno che tale generazione desiderava mantenere. Per questo dico che “ciascuna generazione possiede una sua astuzia”, ma anche una sua trappola.
 
@@ -797,7 +808,7 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 4. La percezione del paesaggio umano è verifica di me stesso e coinvolgimento emotivo, è qualcosa che mi nega o mi lancia in avanti. E a partire dal mio “oggi”, mettendo insieme i ricordi, sono risucchiato dall’intenzione verso il futuro. Si tratta di un futuro che condiziona l’oggi, di un’immagine, di un sentimento confuso o voluto, di un fare scelto od imposto che segna anche il mio passato, perché cambia ciò che considero essere stato il mio passato.
 
-##VI. L’EDUCAZIONE
+## VI. L’EDUCAZIONE
 
 1. La percezione del paesaggio esterno e l’agire in tale paesaggio mettono in gioco sia il corpo sia un modo emotivo di stare nel mondo. Ovviamente mettono in gioco anche la visione stessa della realtà, come ho osservato altrove. Per questo credo che educare consista principalmente nel rendere le nuove generazioni capaci di una visione non ingenua della realtà, nel senso che il loro sguardo consideri il mondo non come una presunta realtà obiettiva in sé, ma come un oggetto di trasformazione sul quale l’essere umano applica la propria azione. Qui non sto parlando dell’informazione riguardo al mondo, quanto piuttosto dell’esercizio intellettuale di una particolare visione dei paesaggi, priva di pregiudizi, e di un’attenta pratica del proprio sguardo. Un’educazione elementare deve mirare allo sviluppo di un modo di pensare basato sulla coerenza. Qui non si sta parlando di conoscenza in senso stretto, ma del contatto con la propria esperienza del pensare.
 
@@ -807,13 +818,13 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 4. Fin qui ho parlato dell’educazione, considerandola dal punto di vista delle attività formative per l’essere umano nel suo paesaggio umano, ma non ho parlato dell’informazione che ha a che vedere con la conoscenza, con l’assimilazione di dati grazie allo studio ed alla pratica intesa come forma di studio.
 
-##VII. LA STORIA
+## VII. LA STORIA
 
 1. Risulterà inutile spiegare il processo storico come la manifestazione sempre più piena dell’intenzionalità umana che lotta per vincere il dolore (fisico) e la sofferenza (mentale), se si continuerà a pensare tale processo utilizzando uno sguardo esterno. Su questa linea, alcuni cercheranno di svelare le leggi intime dell’accadere umano partendo dalla materia, altri partendo dallo spirito, altri ancora partendo dalla ragione intesa in un certo modo; ma in tutti i casi il meccanismo interno cercato sarà sempre visto ‘“dal di fuori” dell’uomo.
 
 2. Di certo, si continuerà ad intendere il processo storico come lo sviluppo di una forma che, in definitiva, non sarà altro che la forma mentale di coloro che vedono le cose in quel determinato modo. E non importa a quale tipo di dogma si faccia ricorso, perché, nel fondo, saranno sempre le cose che si vogliono vedere a suggerire l’adesione ad un tale dogma.
 
-##VIII. LE IDEOLOGIE
+## VIII. LE IDEOLOGIE
 
 1. In un determinato momento storico, le ideologie hanno avuto grande seguito perché hanno mostrato di svolgere in modo utile il compito di dare orientamento all’azione e di interpretare il mondo individuale e sociale; in seguito, però, sono state sostituite da altri modi di pensare il cui massimo successo è stato quello di apparire come la realtà stessa, la più concreta e immediata, esente da qualsiasi “ideologia”.
 
@@ -823,7 +834,7 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 4. I pragmatici, con il loro cinismo, hanno dimostrato, anche se vergognandosene, di essere i nipoti dei laboriosi costruttori di “coscienze infelici”, ed i figli di coloro che avevano denunciato le ideologie come “mascheramento” della realtà. Per questo, in ogni forma di pragmatismo rimane l’impronta dell’assolutismo tipico di una tale famiglia. Così, li abbiamo sentiti dire: “Bisogna attenersi alla realtà, non a teorie”. Ma un tale atteggiamento ha creato loro innumerevoli difficoltà quando sono emerse correnti irrazionaliste che, a loro volta, hanno affermato: “Bisogna attenersi alla nostra realtà, non alle vostre teorie”.
 
-##IX. LA VIOLENZA
+## IX. LA VIOLENZA
 
 1. Quando si parla di metodologia di azione in riferimento alla lotta politica e sociale si allude spesso al tema della violenza. Ma vi sono questioni preliminari a cui questo tema non è estraneo.
 
@@ -831,7 +842,7 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 3. D’altra parte, confondere non violenza con pacifismo porta ad innumerevoli errori. Mentre la non violenza non ha bisogno di giustificazione in quanto metodologia d’azione, il pacifismo ha bisogno di stabilire quali fatti possono avvicinare od allontanare la pace, intesa come stato di non belligeranza, e di dare ad essi il giusto peso. Per questo il pacifismo tende ad occuparsi di un tema come quello del disarmo ed a farlo diventare la priorità essenziale di una società, quando in realtà la corsa agli armamenti costituisce un caso di minaccia di violenza fisica che deriva dal potere istituito da una minoranza che manipola lo Stato. Sia chiaro, il tema del disarmo è d’importanza capitale; ma il pacifismo, che si appella all’urgenza di questo problema, non potrà modificare il contesto della violenza neanche se le sue richieste venissero accolte, e di certo, non potrà arrivare a formulare, se non artificiosamente, alcun discorso di trasformazione della struttura sociale. E’ anche chiaro che esistono differenti modelli di pacifismo e differenti basi teoriche all’interno di tale corrente, ma in tutti i casi essa non è in grado di presentare una proposta di portata più vasta. Se disponesse di una visione del mondo di più ampio respiro, saremmo sicuramente in presenza di una dottrina che include il pacifismo. In tal caso dovremmo discutere i fondamenti di tale dottrina prima di accettare o rifiutare il pacifismo che da essa deriva.
 
-##X. LA LEGGE
+## X. LA LEGGE
 
 1. “Il diritto del singolo termina dove comincia il diritto degli altri”, dunque “il diritto degli altri termina dove comincia quello del singolo”. Ma poiché l’enfasi viene posta sulla prima e non sulla seconda frase, tutto fa sospettare che i sostenitori di tale affermazione interpretino se stessi come “gli altri”, ossia come i rappresentanti degli altri, come i rappresentanti di un sistema stabilito che si dà per giustificato.
 
@@ -845,7 +856,7 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 6. I Diritti Umani non hanno la vigenza universale che sarebbe desiderabile perché non dipendono dal potere universale dell’essere umano ma dal potere di una parte sul tutto; e se le più elementari rivendicazioni della libertà di disporre del proprio corpo sono calpestate in tutte le latitudini, possiamo solo parlare di aspirazioni che dovranno trasformarsi in diritti. I Diritti Umani non appartengono al passato, stanno nel futuro attraendo l’intenzionalità, alimentando una lotta che si ravviva ad ogni nuova violazione del destino dell’uomo. Pertanto, qualunque rivendicazione di tali diritti è sempre valida giacché mostra che gli attuali poteri non sono onnipotenti e che non controllano il futuro.
 
-##XI. LO STATO
+## XI. LO STATO
 
 1. E’ stato detto che la nazione è un’entità giuridica formata dall’insieme degli abitanti di un paese retto da uno stesso governo. In seguito, l’idea è stata estesa al territorio del paese. Ma in verità una nazione può esistere per millenni senza essere retta da uno stesso governo, senza essere inclusa in uno stesso territorio e senza essere giuridicamente riconosciuta da alcuno Stato. Ciò che definisce una nazione è il riconoscimento reciproco che vincola quanti si identificano in valori simili ed aspirano ad un futuro comune e questo non ha niente a che vedere né con la razza né con la lingua né con la storia intesa come “lungo percorso temporale che parte da un passato mitico”. Una nazione può formarsi oggi, crescere in futuro o scomparire domani ed anche incorporare altri insiemi nel proprio progetto. In questo senso si può parlare della formazione di una nazione umana che non si è ancora consolidata come tale e che ha conosciuto innumerevoli persecuzioni e fallimenti... e soprattutto ha subito il fallimento del suo paesaggio futuro.
 
@@ -861,7 +872,7 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 7. Se, come risultato di un’unione regionale, emergesse un mostruoso Superstato od il dominio senza freni dei vecchi interessi (ora totalmente omogeneizzati) che imponesse con strumenti sofisticati il proprio potere alla totalità sociale, scoppierebbero innumerevoli conflitti che metterebbero in pericolo la base stessa di tali unioni, per cui le forze centrifughe acquisterebbero una forza devastante. Se, al contrario, il potere di decisione del popolo crescesse, l’integrazione tra le diverse comunità verrebbe a costituire l’avanguardia del processo di formazione della nazione umana.
 
-##XII. LA RELIGIONE
+## XII. LA RELIGIONE
 
 1. Ciò che si dice delle cose e dei fatti non sono né le cose né i fatti ma “raffigurazioni” di questi, le quali hanno in comune con questi una certa struttura. E’ grazie a tale struttura comune che si può parlare delle cose e dei fatti. Ma non si può parlare di tale struttura nel modo in cui si parla delle cose, perché si tratta della struttura di ciò che si dice (così come della struttura delle cose e dei fatti). Seguendo la stessa logica, il linguaggio può mostrare ma non dire quando si riferisce a ciò che “include” tutto (anche il linguaggio stesso). Questo è il caso di “Dio”.
 
@@ -889,17 +900,15 @@ Quando parlavo dell’accesso al “potere” da parte di una generazione, inten
 
 13. Ed in questo campo sono davvero pochi quelli che intuiscono ciò che prepara il futuro, perché sono davvero pochi quelli che si dedicano al compito di comprendere in che direzione avanza l’intenzionalità umana che necessariamente trascende l’individuo. Se l’uomo vuole che qualcosa di nuovo si “mostri” è perché ciò che tende a “mostrarsi” sta già operando nel suo paesaggio interno. Ma non è pretendendo di essere il rappresentante di un dio che l’uomo diventa, nel suo vissuto interno, la dimora od il paesaggio di uno sguardo (di un’intenzione) trascendente.
 
-##XIII. I CAMMINI APERTI
+## XIII. I CAMMINI APERTI
 
 1. Ed il lavoro, il denaro, l’amore, la morte e tanti altri aspetti del paesaggio umano appena toccati in queste riflessioni? Che dire di essi? Chiunque può dare una risposta, purché utilizzi questo modo di affrontare i temi, purché colleghi, cioè, sguardi e paesaggi e comprenda che i paesaggi cambiano gli sguardi.
 
 2. Da quanto detto, risulta che non è necessario parlare di nuove cose se c’è qualcuno che può affrontarle nel modo fin qui usato da noi, perché quel qualcuno potrebbe parlarne proprio come lo faremmo noi. Se poi parlassimo di cose che non interessano nessuno od utilizzassimo una forma di espressione che non permettesse di svelarle, sarebbe insensato continuare a parlare agli altri.
 
-#NOTE A UMANIZZARE LA TERRA
+# NOTE A UMANIZZARE LA TERRA
 
-
-
-##Lo sguardo interno
+## Lo sguardo interno
 Lo sguardo interno è diviso in venti capitoli, ciascuno dei quali è diviso in paragrafi numerati.
 Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:
 A. I primi due capitoli sono introduttivi e presentano l’intenzione di chi spiega, l’atteggiamento di chi ascolta e il modo in cui si intende portare avanti il rapporto tra autore e lettore.
@@ -929,7 +938,7 @@ XVIII. AZIONE E REAZIONE DELLA FORZA - Associazione tra rappresentazioni e caric
 XIX. GLI STATI INTERNI - Si prendono in esame le situazioni mentali in cui si verrà a trovare chi si dedica al lavoro interno.
 XX. LA REALTA’ INTERIORE - I processi mentali legati a rappresentazioni allegoriche del mondo esterno.
 
-##Il paesaggio interno
+## Il paesaggio interno
 Il paesaggio interno è diviso in diciotto capitoli, ciascuno dei quali è diviso in paragrafi numerati.
 Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:
 A. I primi due capitoli sono introduttivi e presentano al lettore alcune domande: gli si chiede se è felice od infelice e quali sono i suoi interessi nella vita.
@@ -957,7 +966,7 @@ XVI. I MODELLI DI VITA - Si presentano i “modelli” come immagini che motivan
 XVII. LA GUIDA INTERNA - Si trasmette l’idea che nel paesaggio interno esistono modelli che costituiscono degli esempi di condotta per il soggetto. Tali modelli possono essere definiti come “guide interne”.
 XVIII. IL CAMBIAMENTO - Si studia la possibilità di trasformare volontariamente il comportamento umano.
 
-##Il paesaggio umano
+## Il paesaggio umano
 Il paesaggio umano è diviso in tredici capitoli, ciascuno dei quali è diviso in paragrafi numerati.
 Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:
 A. I primi cinque capitoli sono dedicati a chiarire il significato del paesaggio umano ed il significato dello sguardo che ad esso si riferisce.
@@ -968,10 +977,10 @@ L’ordine dei temi è il seguente:
 I. I PAESAGGI E GLI SGUARDI - Si analizzano le differenze fra paesaggio interno, esterno ed umano. Iniziano le distinzioni fra i differenti tipi di “sguardo”.
 II. L’UMANO E LO SGUARDO ESTERNO - Si prende in esame quanto è stato detto sull’essere umano utilizzando uno “sguardo esterno”.
 III. IL CORPO UMANO COME OGGETTO DELL’INTENZIONE - L’intenzionalità ed il controllo del proprio corpo senza intermediazioni. L’oggettivazione del corpo dell’altro e lo “svuotamento” della sua soggettività.
-IV.  MEMORIA E PAESAGGIO UMANO - La non coincidenza fra il paesaggio umano percepito nel presente ed il paesaggio umano relativo al tempo di formazione di colui che percepisce.
+IV.MEMORIA E PAESAGGIO UMANO - La non coincidenza fra il paesaggio umano percepito nel presente ed il paesaggio umano relativo al tempo di formazione di colui che percepisce.
 V. LA DISTANZA CHE IL PAESAGGIO UMANO IMPONE - Le distanze fra il paesaggio umano percepito e il paesaggio umano rappresentato non sono date solo da una differenza di tempo, ma dai modi di stare nel mondo che sono funzione dell’emozione e del corpo.
 VI. L’EDUCAZIONE - Si sostiene che un’educazione integrale debba preoccuparsi di sviluppare un pensiero coerente, inteso come contatto con i propri vissuti del pensare; che debba facilitare la sensibilità e lo sviluppo emotivo, intesi come contatto con se stessi e con gli altri; e che non debba scartare pratiche che mettano in gioco tutte le risorse corporee. Si traccia una linea di demarcazione fra l’educazione intesa come formazione e l’informazione intesa come assimilazione di dati attraverso lo studio e la pratica, che è anch’essa una forma di studio.
-VII. LA STORIA - Fino ad oggi la storia è stata vista “dal di fuori”, senza prendere in considerazione l’intenzionalità umana. 
+VII. LA STORIA - Fino ad oggi la storia è stata vista “dal di fuori”, senza prendere in considerazione l’intenzionalità umana.
 VIII. LE IDEOLOGIE - Nell’epoca di crisi delle ideologie sorgono falsi schematismi che pretendono di rappresentare la realtà così com’è. E’ il caso del cosiddetto “pragmatismo”.
 IX. LA VIOLENZA - La non violenza come metodologia di lotta politica e sociale non ha bisogno di giustificazioni. E’ un sistema in cui domina la violenza ad aver bisogno di giustificazioni per imporsi. Inoltre si analizzano le differenze fra pacifismo e non violenza.
 X. LA LEGGE - Si parla dell’origine della legge e del tema del potere inteso come premessa di ogni diritto.

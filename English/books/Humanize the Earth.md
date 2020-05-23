@@ -1,11 +1,13 @@
-#Humanize the Earth
+---
+title: Humanize the Earth
+permalink: /en/books/humanize-the-earth/
+edit: true
+date: 2005-10-17T15:31:39+00:00
+lang: en
+---
 
-The Inner Look
-
-The Internal Landscape
-
-The Human Landscape
-
+* TOC
+{:toc}
 
 # The Inner Look
 

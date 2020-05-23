@@ -1,18 +1,29 @@
-# Il Giorno del Leone Alato
+---
+title: Il Giorno del Leone Alato
+permalink: /it/libri/il-giorno-del-leone-alato/
+edit: false
+date: 2005-10-17T15:31:39+00:00
+lang: it
+id: 2213
+group:
+---
+
+* TOC
+{:toc}
 
 # Racconti brevi
 
-## CASA DI TRANSITO
+## Casa di transito
 Di mattina molto presto, mi ero messo a girare tra gli uffici delle ditte importatrici che avevano le loro sedi nel mercato. Barek-el-Muftala era scomparso e nessuno sapeva darmi informazioni su di lui. Ma un vecchio venditore di frutta mi aveva detto di aver visto Barek lasciare la zona gialla della città tre giorni prima e di aver sentito notizie confuse su di lui. Nel biglietto che mi aveva messo tra le mani aveva indicato un punto di Malinkadassi. Così mi sono incamminato verso la piazza principale evitando venditori di yogurt, vasai e commercianti; poi mi sono riposato in un bar bevendo cha e ho rifiutato narghilé e caffè; quindi mi sono diretto verso la stazione degli autobus dove ho trovato un taxi. Dopo un lungo percorso, la macchina mi ha lasciato davanti a una costruzione a un piano, dove una targa di bronzo diceva: “Casa di transito”.
 All’ingresso ho avuto l’informazione che cercavo. “E’ dentro,” mi hanno detto. Facendomi strada tra una folla dolente, sono riuscito ad arrivare in una stanza enorme. Un grande cerchio umano stava intorno alla bara aperta che, con il coperchio appoggiato a un bastone di legno, somigliava quasi a un pianoforte a coda. Accanto al feretro un uomo grasso recitava preghiere ad alta voce; di tanto in tanto, gli altri rispondevano alle giaculatorie. Il tizio, ricorrentemente, poneva la mano destra nella bara come se cercasse di sistemare la veste o forse il sudario del defunto. Visto questo mi sono avvicinato, fermandomi quasi al centro della scena. Allora ho capito che l’officiante cercava di calmare il presunto morto che lottava per sollevare il capo. Barek-el-Muftala era davanti ai miei occhi con il capo fasciato e si lamentava debolmente. A quel che sembrava aveva subito un grave incidente e agonizzava.
 Gli eventi sono precipitati. E’ arrivato un ragazzo con un recipiente e lo ha consegnato all’uomo grasso che, senza scomporsi, lo ha stappato. Aperta la bocca di Barek, ve ne ha rovesciato il contenuto. Poi con una mano ha premuto la mandibola e con l’altra ha stretto le narici dell’agonizzante. Non è stato un movimento brusco, ma dolce e soave. Guardando un gruppo di parenti, l’officiante scuoteva il capo di Barek a destra e a sinistra tenendolo per il naso. Dopo un po’ è salito su una sedia che gli avevano portato e, in equilibrio instabile, si è chinato profondamente verso l’interno della bara. E’ rimasto così, per compiere le sue verifiche, finché ha deciso di scendere. Poi si è allontanato da quel luogo con la soddisfazione di chi ha fatto bene il suo lavoro; con il portamento e con la gravità che si addicono a tali eventi. E’ stato il segnale che ha rotto la diga delle emozioni causate dalla morte di un carissimo amico. Mentre il pianto diventava generale ho assunto un atteggiamento solenne, ma senza smettere di osservare i verdi occhi inumiditi della figlia di Barek. Lei, in quanto sua unica discendente, aveva autorizzato l’eutanasia del padre e tra i diversi programmi di estinzione aveva saputo scegliere quello più squisito.
 
-## IL GRANDE SILENZIO
+## Il grande silenzio
 A mezzogiorno i vendemmiatori si sono sdraiati sotto le vigne più folte. Dopo avere mangiato, hanno cercato di riposare un po’. Oltre quaranta gradi di calore facevano tacere gli uccelli e i cavalli addormentati nei recinti. I camion da trasporto, i trattori che trascinavano carri e rimorchi aspettavano al riparo delle tettoie. Un alito di vento muoveva qualche foglia del vigneto e il rumore dell’acqua nei canali si sentiva appena. Era un pomeriggio secco e brutalmente caldo, uno di quei pomeriggi che conoscono solo coloro che vivono sotto i cieli violentemente azzurri delle zone semidesertiche. Chiunque si sarebbe sentito soffocare e avrebbe potuto giurare di aver sentito il crepitio del sole che colpiva la terra quasi calcinata. Eppure io ho visto quello strano soggetto attraversare un filare della vigna ed arrivare ad un largo sentiero con il suo cane fedele che lo seguiva a pochi metri; l’ho visto abbassarsi i pantaloni ed esporre le natiche piatte alla radiazione solare; accovacciato, l’ho visto emettere una gelatina scura che colando si è mescolata alla polvere; ho visto questa solidificarsi in fretta ed il cane, aprendo la bocca con la precisione di una pala meccanica, tirare su un tozzo rigido e perfetto.
 Forse a causa della temperatura sono stato per svenire o, quanto meno, è venuta a mancare l’irrorazione del cervello perché per un istante ho visto il sole come una bolla trasparente. Poi le natiche hanno brillato ed i corpi del cane e del padrone sono rimasti fermi nelle loro inverosimili posizioni. Né un alito di vento né il benché lieve rumore dai canali né il battito di un cuore né il calore né una sensazione... Il Grande Silenzio era sorto con un pretesto assurdo.
 Poi il pigro fluire dell’esistenza ha animato le formiche ed una furtiva lucertola. Un nitrito lontano mi ha segnalato che ero di nuovo nella terra degli eventi... Così ho sollevato il cesto da vendemmiatore e con le forbici per potare ho cominciato a tagliare un grappolo dopo l’altro, preso da una gioia che si espandeva in cerchi concentrici.
 
-## DIGITA LA RISPOSTA!
+## Digita la risposta!
 Come facesse il computer a scrivere poesie da solo è stata una cosa che mi ha incuriosito per molto tempo. Si metteva in funzione proprio quando mi assentavo. Ma oggi sono riuscito a venirne a capo. E adesso basta, caro mio, basta, sciocco TZ-28300!
 Solo un momento fa tutto andava bene. Bevevo il caffè e usavo i miei apparecchi. Lobo dormiva, come sempre, su un angolo del tappeto. Lavoravo in laboratorio con gli strumenti e con le sostanze e mi aiutava nella ricerca il programma di chimica che avevo inserito nel TZ-28300. Ero arrivato alla sequenza in cui il computer mi domandava: “Fonde facilmente?” e io dovevo digitare “No”. A quel punto proponeva soluzioni e dava suggerimenti che stampava sul modulo continuo in modo che l’informazione rimanesse scritta nel caso di ulteriori revisioni.
 - Probabilmente è un composto ionico. Si scioglie?
@@ -54,12 +65,12 @@ _Vuoi forse dare da mangiare al tuo cane? Preferisci forse farlo dissolvere in u
 
 **DIGITA LA RISPOSTA!**
 
-## LA PIRA FUNERARIA
+## La pira funeraria
 Dal ponte, appoggiato sui gomiti, osservavo con chiarezza tutte le operazioni del gruppo accanto al fiume. Ho visto che nessuno era riuscito a trovare rami né tronchi sufficientemente secchi per far venire fuori un fuoco pulito ed adatto. Dopo avere insistito con diversi tentativi, alcuni uomini hanno ravvivato le fiamme con cenci e con vecchie copie del Nepal Telegraph. Il fuoco ha preso e a quel punto si sono decisi a mettere una specie di lettiga sulla pira funeraria. Forse a causa della canapa delle borse appese ai due legni laterali, forse a causa del tessuto che avvolgeva il defunto, le fiamme hanno cominciato a crescere... ma non è durato a lungo. A forza di aggiungere rami e foglie non del tutto secchi, il fumo ha avvolto il tumulo ed il gruppo si è disperso tossendo. Appena il vento è cambiato, due uomini si sono avvicinati al falò ed hanno spinto il defunto nell’acqua. E’ stata un’operazione eseguita con una traccia di ira e di impazienza: la contraffazione delle normali cremazioni in cui si finisce con il raccogliere le ceneri per poi disperderle nel fiume.
 Il corpo ha galleggiato dolcemente e dopo una nuova spinta è entrato nella corrente. In silenzio il gruppo lo ha osservato allontanarsi mentre io dal ponte lo avevo sempre più vicino: era nudo e solo la parte destra risultava leggermente bruciata. Anche la metà destra della faccia era bruciacchiata. Ed un corvo posatosi sul cadavere beccava l’occhio sinistro, l’occhio non raggiunto dal fuoco. Quando è passato sotto il ponte mi sono concentrato di nuovo sul gruppo che se ne stava fermo sulla riva del fiume. Da lì, appoggiato sui gomiti, sono rimasto ad aspettare che andasse via. A quel punto mi sono ricordato dei funerali in tutte le latitudini della terra; i funerali poveri e quelli fastosi, quelli asettici e quelli antigienici. Ho considerato le sepolture, le cremazioni, gli smembramenti e le triturazioni delle ossa; le esposizioni agli uccelli ed agli orsi; la collocazione su alberi e rocce protette, in crepacci e crateri, in costruzioni smisurate, in templi e giardini; il trasporto di ceneri in urne spaziali; le conservazioni criogeniche...
 Ho sbadigliato, mi sono stiracchiato ed ho sentito fame.
 
-## NEGLI OCCHI SALE, AI PIEDI GHIACCIO
+## Negli occhi sale, ai piedi ghiaccio
 Fernando era stato un buon compagno di lavoro ed un bravo scienziato. Inesplicabilmente aveva abbandonato la sua attività ed era partito per l’Africa. In seguito qualcuno mi disse che era stato visto in Alaska. Sono passati due anni d’allora e nessuno è riuscito a sapere con certezza scientifica che ne è stato di lui. Credo che se è ancora vivo deve essere diventato irrimediabilmente pazzo ma io posso immaginare il modo in cui è iniziata la sua follia. Tra le carte che lasciò nel nostro laboratorio fa bella mostra uno strano e disordinato appunto, che riporta cose molto lontane dalle sue abituali ricerche. Eccolo.
 
 26/8/80
@@ -76,7 +87,7 @@ _Nell’occhio destro…_ ho trovato un deserto di creta secca e spaccata. Ogni 
 La sequenza si svolse così:
 
 **Nel binoculare**
-
+------------ | ------------
 ho cominciato a vedere gruppi | ho trovato un deserto di
 colorati di persone intorno | creta secca e spaccata
 ad alte stalagmiti di | Ogni cosa era opaca, quasi
@@ -88,6 +99,7 @@ loro involti nei quali... | ad un tratto...
 
 **sono prevalsi i colori chiari.**
 
+------------ | ------------
 La situazione di quegli uomini | Il terreno si è congelato
 era eccezionale. Nessuno | e mi sono visto camminare
 sembrava aver fretta di fronte | scalzo su un piano di
@@ -101,6 +113,7 @@ termiti. |
 
 **Tutto brillava alla luce del condensatore del microscopio,**
 
+------------ | ------------
 e mi domandavo come avessero | mentre il mio volto era
 potuto sorgere quelle | sferzato dalle raffiche di
 formazioni, visto che | vento. In basso, il
@@ -110,6 +123,7 @@ cadere in quantità, | lasciando aperti precipizi
 
 **ma al di sopra c’erano le lenti**
 
+------------ | ------------
 da un cielo pulito che non | cosicché mi trovavo
 prometteva mai la pioggia. In | stretto da tutte le parti.
 ogni caso, un qualche liquido | Quasi vinto e abbacinato
@@ -201,14 +215,13 @@ anche se lontani rulli di tamburo possono sembrare più seducenti”._
 
 ## Il caso Poe
 
-Come dall’altro lato dello specchio
+>Come dall’altro lato dello specchio
 si dette solitario a quel suo arduo,
 strano destino d’inventore d’incubi.
 Forse dall’altro lato della morte
 ancora erige solitario e forte
 le sue splendide e atroci meraviglie.
-
-Edgar Allan Poe, di J. L. Borges
+_Edgar Allan Poe_, di J. L. Borges
 
 Avevo sempre creduto che le storie degli autori di fantascienza rispondessero a concetti embrionali che si trovavano nell’ambiente di un dato momento storico e che pertanto riguardavano allo stesso modo filosofi, studiosi e artisti.
 Molte anticipazioni poi confermate dal progresso tecnologico avevano più a che fare con lo sviluppo di tali idee primitive che con reali visioni del futuro. Verne aveva calcolato con sufficiente approssimazione il punto di partenza del primo viaggio per la Luna ed aveva anche immaginato che il _Nautilus_ fosse spinto da un tipo di energia che tempo dopo poté essere controllata. Altrettanto si poteva dire di Bulwer Lytton riguardo all’elettricità e di vari autori che sorprendevano per le cose che avevano previsto con precisione. Di sicuro molti scrittori di oggi potrebbero trovare conferme più in là nel tempo, quando i sistemi antigravità, i viaggi alla velocità della luce e gli androidi saranno realtà pratiche. Pensavo che cercare di comprendere quelle anticipazioni sulla base di poteri precognitivi fosse tanto ridicolo quanto attribuire la simultanea invenzione del pianoforte alle capacità telepatiche di Cristofori e di diversi suoi contemporanei, che lavoravano a sviluppare il clavicordo nel 1718. La coincidenza nella scoperta di Nettuno attraverso il calcolo da parte di Le Verrier ed attraverso l’osservazione telescopica da parte di Galle nel 1846 mi faceva riflettere sullo sforzo che molti matematici ed astronomi avevano compiuto in una stessa direzione, spinti da fondati sospetti sull’esistenza del pianeta e non da oscure pulsioni.
@@ -216,7 +229,7 @@ Ho anche riflettuto sul fatto che se si compilasse un elenco delle previsioni ve
 Era questo il mio modo di vedere il mondo, un modo di vedere sostenuto dal calcolo delle probabilità, quando saltava fuori una qualche superstizione. Questa è stata la mia posizione anche quando si è voluto fare di Poe una specie di stregone della letteratura. Molti dei suoi lettori erano persone impressionabili che prendevano i suoi esseri stregati, i suoi abominevoli corvi, le sue atmosfere verdastre e mortifere come cose che accadevano realmente.
 Spesso ho ascoltato storie sulle sue facoltà di veggente, sulle sue previsioni di naufragi che poi si erano verificati, su tombe che al momento di essere riaperte avevano mostrato i segni di una asfissia disperata, proprio come lui aveva preannunciato. E quei racconti hanno avuto la prerogativa di causarmi una particolare avversione.
 Ma da qualche tempo le cose sono cambiate. In alcune notti lugubri, in alcuni ambienti percorsi dal riflesso di lune mortifere, ho creduto di cogliere l’alito che spirava nella sua buia residenza mentre immaginava fatti che sarebbero coincisi con quanto avrebbe scritto. Altre volte mi è sembrato che non si trattasse di un essere demoniaco ma di una creatura che, incappata nelle maglie del tempo, avesse voluto spezzare quella rete tenebrosa per salvare altre vite. Oggi credo che abbia conosciuto particolari di eventi che dovevano accadere e che non poté modificare perché ancora non erano nati gli sfortunati protagonisti. E, d’altra parte, ha voluto che qualcuno mettesse in luce ciò che riferirò più avanti.
-Lascio la prova di tutti i fatti in modo che qualunque ricercatore imparziale possa verificarli per suo conto. Ho risposto alle sollecitazioni di Poe ma ora stesso taglio un vincolo malsano che mi legava a lui. I radio operatori, quando si salutano al termine di una conversazione che li ha messi in contatto da punti lontani e da fusi orari diversi, sogliono terminare con la frase: “Passo e chiudo!”. Allora, passo e chiudo, caro e triste Poe. Lo so, mi dispiace davvero. Scrivendo queste note, mi sono accorto di avere esorcizzato le mie fantasie infantili. Non credo che in futuro, visitando case deserte, affacciandomi alla bocca di una cisterna, attraversando un bosco ombroso, ascolterò di nuovo quel lamento ossessivo che chiamava il mio nome…”Reynolds, Reynolds”. Ora so di chi era quella voce che pareva di un agonizzante e che mi ha perseguitato da quando ero bambino. Al più, cercherò di essere vicino a Margareth quando leggerà questa trama incomprensibile, perché altrimenti potrebbe arrivare a considerare la sua vita come il pretesto di una volontà lontana, come se non fosse stata altro che un’antenna costruita per permettere la comunicazione tra tempi e spazi diversi.
+Lascio la prova di tutti i fatti in modo che qualunque ricercatore imparziale possa verificarli per suo conto. Ho risposto alle sollecitazioni di Poe ma ora stesso taglio un vincolo malsano che mi legava a lui. I radio operatori, quando si salutano al termine di una conversazione che li ha messi in contatto da punti lontani e da fusi orari diversi, sogliono terminare con la frase: “Passo e chiudo!”. Allora, passo e chiudo, caro e triste Poe. Lo so, mi dispiace davvero. Scrivendo queste note, mi sono accorto di avere esorcizzato le mie fantasie infantili. Non credo che in futuro, visitando case deserte, affacciandomi alla bocca di una cisterna, attraversando un bosco ombroso, ascolterò di nuovo quel lamento ossessivo che chiamava il mio nome… ”Reynolds, Reynolds”. Ora so di chi era quella voce che pareva di un agonizzante e che mi ha perseguitato da quando ero bambino. Al più, cercherò di essere vicino a Margareth quando leggerà questa trama incomprensibile, perché altrimenti potrebbe arrivare a considerare la sua vita come il pretesto di una volontà lontana, come se non fosse stata altro che un’antenna costruita per permettere la comunicazione tra tempi e spazi diversi.
 Tutto è cominciato durante un incontro mondano.
 - Non hai letto Poe? - mi ha domandato Margareth quasi per caso.
 - Sì, da ragazzo.
@@ -225,20 +238,21 @@ Tutto è cominciato durante un incontro mondano.
 - Sì, di Reynolds, o non ti chiami cosí?
 - Dai, è come se parlasse di Smith... e che c’entra?
 - Non so, ma lì c’è quel nome.
+
 Pochi giorni dopo ho consultato un indice dei nomi nelle opere complete dello scrittore ed in nessun luogo ho trovato “Reynolds”. Ho capito che Margareth si era confusa, ma ormai avevo per le mani diverse versioni della biografia di Poe che, pur ripetendo luoghi comuni sulla sua vita angosciosa, presentavano sensibili differenze a proposito delle circostanze della sua morte.
 Questo fatto ha richiamato prepotentemente la mia attenzione.
 Alla fine, mi sono trovato davanti quattro descrizioni divergenti.
 
-### I
+**I**
 “Alla morte della moglie comincia a soffrire di attacchi di delirium tremens, causati dai suoi frequenti stati di ubriachezza. Un giorno, nell’ottobre del 1849, viene ritrovato morente sui binari della ferrovia”.
 
-### II
+**II**
 “Ma il giorno in cui l’unione fu spezzata dalla morte della moglie, sopraffatta dalla tubercolosi, il poeta non ebbe più la forza di vivere. Trascinando il suo lutto ed esaurite a tutti gli effetti le sue fonti creative, poté sopravviverle solo per due anni. Allorché era a Baltimora per un giro di conferenze, fu ritrovato alle luci dell’alba, un giorno d’ottobre, agonizzante per la strada”.
 
-### III
+**III**
 “Si trovava a Baltimora per caso; vi si era fermato durante un viaggio da Richmond a Fordham (New York), in preparazione delle sue prossime nozze con Sarah Elmira Royster, suo grande amore di gioventù, con cui si sarebbe dovuto unire dopo aver perduto la prima moglie, Virginia Clemm”.
 
-### IV
+**IV**
 “Nel settembre del 1849 giunse a Baltimora mentre era diretto a Filadelfia. Un ritardo del treno che avrebbe dovuto condurlo in quest’ultima città sarebbe risultato fatale. Il 29 settembre, in un deplorevole stato di ebrezza, fa visita a un amico. Cinque giorni dopo, cinque giorni di assoluto mistero e di vuoto nella sua biografia, un altro conoscente viene a sapere che qualcuno ‘che potrebbe essere il signor Poe’ giace ubriaco e privo di conoscenza in una taverna dei bassifondi di Baltimora. Era epoca di elezioni e vigeva l’uso che i procacciatori di voti facessero ubriacare gratis gli elettori. Quelle bevute elettorali furono forse l’ultima scelta di Poe. Portato in un ospedale, la sua morte era ormai inevitabile”.
 
 E così sono andato mettendo insieme indizi, sospetti e bibliografie fino a comporre un quadro della morte di Poe che avrebbe potuto essere stato scritto da lui stesso. La verità è questa. Il 29 settembre 1849 arriva a Baltimora. Non è certo che quel giorno abbia fatto visita a un amico né che una combriccola di politici ne abbia fatto precipitare la crisi. Passano diversi giorni senza notizie finché il 3 ottobre viene trovato privo di conoscenza in una taverna di Lombard Street. Da lì lo portano al “Washington Hospital” e, mentre continua a delirare fino alla fine, chiama in diverse occasioni uno sconosciuto “Reynolds”. Muore alle 3 del mattino del giorno 7, a quarant’anni d’età. Forse per porre riparo ad una colpa ignota la città di Baltimora gli innalza un monumento il 17 novembre 1875.
@@ -257,7 +271,7 @@ No, era impossibile una falsificazione a catena, estesa a giornali e corti di gi
 Ho riconsiderato la situazione. Prima della morte, Poe ha fatto perdere le proprie tracce per diversi giorni e poi è ricomparso nella nostra dimensione delirando. Chiamava Reynolds perché cercasse di far cambiare gli eventi che lui aveva visto in anticipo. Questo era doppiamente impossibile perché Reynolds era morto prima di lui e perché i protagonisti della catastrofe non erano ancora venuti al mondo. Senza dubbio era un delirio... O forse aveva bisogno di far sapere tutto quello che era accaduto? Se così fosse stato, il poeta aveva scelto la buona Margareth perché mi comunicasse il messaggio. Aveva lanciato la bottiglia tra le onde del tempo più di 140 anni fa e lo aveva fatto il giorno della sua morte a Baltimora, il 3 ottobre del 1849.
 
 # Finzioni
-## SOFTWARE ED HARDWARE
+## Software ed hardware
 Oh, Newton, Newton, che cosa avresti sognato
 se la mela l’avessi mangiata?
 
@@ -387,7 +401,7 @@ Allora passarono in rassegna le loro confuse idee. Il telecomando aveva generato
 La luminosità di Tlapán aumentava all’avvicinarsi dell’alba. Quando il pianeta Venere emerse all’orizzonte, salì un ruggito che crebbe fino a diventare insopportabile. I tralicci dell’alta tensione ondeggiarono e molti si staccarono dalle loro basi. Pedro e Shoko si appiattirono a terra e cominciarono a sentire le scosse di un forte terremoto. Tlapán emetteva lampi sempre più intensi finché, all’improvviso, la sua vetta volò via come sotto l’effetto della dinamite... L’osservatorio era scomparso e il monte si era rotto come il guscio di un uovo. Enormi frammenti caddero intorno e poi venne il silenzio.
 Una gigantesca massa metallica cominciò a innalzarsi lentamente da quello che era stato il monte. Sfolgorando in fiammate dai colori cangianti salì sempre di più fino a rivelarsi come un enorme disco. Poi cominciò a spostarsi in direzione dei terrorizzati osservatori. Per un po’ rimase fermo sopra di loro per cui poterono vedere sulla nave il simbolo di Quetzalcoatl. Alla fine il disco partì bruscamente in direzione della stella del mattino. Allora la memoria profonda di Shoko fu libera e lei capì che la Cacciatrice si era distaccata per sempre dalla sua prigione di pietra.
 
-## IL GIORNO DEL LEONE ALATO
+## Il giorno del leone alato
 _A Danny._
 
 
@@ -427,7 +441,7 @@ Nella galleria in penombra la sensazione di estraneità cominciò a svanire perc
 
 Dopo la morte di Ténetor I nel Comitato sopraggiunse una crisi profonda. Tutti i membri erano d’accordo sul fatto che il comportamento umano andava peggiorando sotto molti aspetti. Riconoscevano anche che l’esplosione della tecnologia forniva ogni giorno nuove possibilità.
 Due posizioni si scontravano nell’interpretazione dei fatti. Da una parte gli “scientifici” osservavano che, negli insiemi umani, comportamenti sociali ripetuti modificavano le aree di lavoro cerebrali. Questo generava un tipo particolare di sensibilità e di percezione dei fenomeni. Di conseguenza, tanto i direttori delle multinazionali quanto i formatori di opinione al loro servizio davano al processo sociale una direzione in accordo con i codici in cui loro stessi si erano formati. Analogamente i pedagoghi, nel loro sforzo di migliorare l’istruzione e l’insegnamento, cadevano in un circolo vizioso che rialimentava le loro particolari credenze. Gli “scientifici” ritenevano impossibile un mutamento di direzione restando all’interno di un processo meccanico che chiamavano il “Sistema” e rimanevano legati ad una vecchia tesi einsteiniana che sosteneva: “All’interno di un sistema, nessun fenomeno può evidenziarne il movimento”. Richiamavano in continuazione l’esempio di questo vecchio maestro, che aveva insegnato che se un viaggiatore collocato nel vagone di un treno in movimento a 120 chilometri orari fa un salto sul posto in cui è seduto non per questo cade su un altro vagone del treno. In un sistema inerziale, sia che si tratti del treno preistorico che di un veicolo spaziale, il salto all’interno del sistema non avrebbe alcun effetto. In ogni caso bisognerebbe impadronirsi della guida del treno o della nave per cambiarne la direzione.
-A tutto ciò gli “storici” rispondevano dicendo che coloro i quali avessero assunto la guida del veicolo lo avrebbero deviato seguendo i criteri con i quali si erano formati.E si chiedevano: “Qual’è la differenza tra le guide precedenti e quelle nuove se tutte agiscono sulla base dei paesaggi in cui si sono formate, sulla base delle loro aree cerebrali più attive? La differenza starebbe solo negli interessi specifici di coloro che vogliono guidare il veicolo”. Partendo da queste considerazioni gli “storici” puntavano su processi di più ampio respiro, ispirandosi ad altri momenti storici nei quali, per motivi di sopravvivenza, gli esseri viventi avevano modificato le loro abitudini e si erano trasformati. Ma riconoscevano anche che molte specie erano scomparse per la difficoltà ad adattarsi.
+A tutto ciò gli “storici” rispondevano dicendo che coloro i quali avessero assunto la guida del veicolo lo avrebbero deviato seguendo i criteri con i quali si erano formati. E si chiedevano: “Qual’è la differenza tra le guide precedenti e quelle nuove se tutte agiscono sulla base dei paesaggi in cui si sono formate, sulla base delle loro aree cerebrali più attive? La differenza starebbe solo negli interessi specifici di coloro che vogliono guidare il veicolo”. Partendo da queste considerazioni gli “storici” puntavano su processi di più ampio respiro, ispirandosi ad altri momenti storici nei quali, per motivi di sopravvivenza, gli esseri viventi avevano modificato le loro abitudini e si erano trasformati. Ma riconoscevano anche che molte specie erano scomparse per la difficoltà ad adattarsi.
 Era una discussione che non si sarebbe mai conclusa. In quella situazione la gestione del Comitato fu assunta da Ténetor II, scelto per la sua equidistanza dalle posizioni in conflitto.
 Ténetor II stabilì come obiettivi del Progetto la ricerca delle migliori produzioni umane e su questo sia gli “scientifici” sia gli “storici” si trovarono d’accordo. Postosi all’opera, mise insieme un’immensa raccolta di quelle conoscenze scientifiche ed artistiche che avevano apportato un miglioramento del processo umano rendendo possibile il superamento del dolore e della sofferenza. Dalla sua posizione di guida del Comitato diede un forte impulso alla selezione del personale incaricato di formare le nuove leve in base alle idee del Progetto. Si trattava di un compito arduo che seguí personalmente, individuando persone capaci di uscire dalle credenze e dai modelli consolidati dal Sistema e che gestivano la propria vita in base a valori e comportamenti considerati atipici dal punto di vista dell’efficientismo in voga. Quando quel singolare drappello fu pronto, chiamò l’organizzazione “Comitato per la Difesa del Sistema Nervoso Debole”, il quale funzionava come un’istituzione impegnata a salvare e proteggere individui intellettualmente inadatti perché incapaci di adattarsi al Sistema. Inoltre divise il Comitato in sezioni specializzate, una delle quali si dedicò ad elaborare materiali educativi per i disadattati di tutto il mondo. Parallelamente mise a punto programmi di protezione ed antivirus per le ditte produttrici di software che lottavano contro i pirati dell’informatica.
 Ténetor II si stabilì in Mesopotamia per portare avanti uno studio sul campo, mantenendosi in contatto permanente con la sede del Comitato. Ma un bel giorno, mentre si stava spostando tra i fiumi Tigri ed Eufrate, i suoi segnali si interruppero. Poche ore dopo, con una spedizione di salvataggio, Faro e Hurón arrivavano sul posto ma trovarono solo la sua macchina, i suoi strumenti di misura ed un cristallo informativo. Da quel momento in poi non si ebbero piú notizie dell’esploratore.
@@ -449,12 +463,14 @@ Nient’altro.
 Davanti agli occhi di Ténetor stavano i fiumi che serpeggiando tra bagliori di oro e argento si trasformavano a momenti nelle ramificazioni arteriose e venose che irroravano il suo corpo. Nel rettangolo del visore apparivano i suoi polmoni che rivelavano l’ansimare della respirazione e questo gli fece comprendere da dove veniva il battito delle ali del grifone. Ed in un angolo della sua memoria seppe ritrovare le immagini mitiche che aveva visto plasmarsi con tanto realismo.
 Decise di tornare alla grotta mentre osservava la colonna alfanumerica che scorreva su un lato dello schermo. Immediatamente il riquadro mostrò il movimento che, in maniera quasi impercettibile, le sue immagini gli inducevano nelle gambe e cosí penetrò nella caverna. “So quel che faccio,” pensò, “so quel che faccio!”. Ma queste parole dette tra sé rimbombarono all’esterno, giunsero al suo udito dal di fuori. Guardando la parete rocciosa sentì frasi che si riferivano ad essa... Stava infragendo la barriera delle espressioni verbali in cui si incrociano i vari sensi; forse per questo ricordò quei versi che il suo maestro recitava:
 
- A noir, E blanc, I rouge, U vert, O bleu:
- voyelles. Je dirai quelque jour vos naissances latentes
+_A noir, E blanc, I rouge, U vert, O bleu:
+voyelles. Je dirai quelque jour vos naissances latentes_
 
 Poi vide una pietra le cui punte si aprivano come fiori colorati ed in quel caleidoscopio comprese che stava rompendo la barriera della visione. Ed oltrepassò tutti i sensi come fa l’arte profonda quando arriva a toccare i limiti dello spazio dell’esistenza.
 Sollevò il casco e si ritrovò nella camera anecoica ma non era solo. Per qualche motivo l’intera sezione gli stava attorno. Jalina lo baciò dolcemente mentre l’impazienza dei presenti si faceva sentire con forza.
-- Non dirò niente! - furono le scandalose parole di Ténetor. Ma poi spiegò che si sarebbe subito dedicato ad elaborare un rapporto che gli altri non avrebbero dovuto conoscere fino a quando ciascuno non avesse fatto la propria parte. Così si decise che, uno dopo l’altro, i membri della sezione avrebbero fatto il viaggio nello spazio virtuale puro. Alla fine i dati privi di influenze reciproche sarebbero stati elaborati e soltanto allora sarebbe arrivato il momento di cominciare a discutere. Perché se tutti avessero riconosciuto lo stesso paesaggio nello spazio virtuale puro, il Progetto si sarebbe realizzato. Ed in che modo lo si sarebbe fatto arrivare a tutto il mondo? Nel modo utilizzato per qualunque tecnologia. Inoltre i canali di distribuzione erano stati aperti da quella rete di persone eccezionali che erano andate oltre il guscio di esteriorità a cui il genere umano era stato ridotto. Ora egli sapeva di esistere e che tutti gli altri esistevano e che questa era la prima di una lunga serie di priorità.
+- Non dirò niente! - furono le scandalose parole di Ténetor.
+
+Ma poi spiegò che si sarebbe subito dedicato ad elaborare un rapporto che gli altri non avrebbero dovuto conoscere fino a quando ciascuno non avesse fatto la propria parte. Così si decise che, uno dopo l’altro, i membri della sezione avrebbero fatto il viaggio nello spazio virtuale puro. Alla fine i dati privi di influenze reciproche sarebbero stati elaborati e soltanto allora sarebbe arrivato il momento di cominciare a discutere. Perché se tutti avessero riconosciuto lo stesso paesaggio nello spazio virtuale puro, il Progetto si sarebbe realizzato. Ed in che modo lo si sarebbe fatto arrivare a tutto il mondo? Nel modo utilizzato per qualunque tecnologia. Inoltre i canali di distribuzione erano stati aperti da quella rete di persone eccezionali che erano andate oltre il guscio di esteriorità a cui il genere umano era stato ridotto. Ora egli sapeva di esistere e che tutti gli altri esistevano e che questa era la prima di una lunga serie di priorità.
 
 ### Nessun appoggio alle colonie planetarie!
 
