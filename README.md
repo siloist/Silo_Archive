@@ -15,4 +15,4 @@ We are planning to convert ALL Silo's books into Markdown format.
 Using GitHub we can allow others to help and keep track of all changes.
 
 ## Collaboration
-this project is maintained at [https://github.com/Siloist/SiloArchive](https://github.com/siloist/SiloArchive) by Stefano Cecere <https://github.com/stefanocecere/>
+this project is maintained at [https://github.com/Siloist/Silo_Archive](https://github.com/siloist/Silo_Archive) by Stefano Cecere <https://github.com/stefanocecere/>
