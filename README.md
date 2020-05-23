@@ -1,10 +1,9 @@
-Silo's Collected Works
-==========
+# Silo's Archive
+---
 
-these are the Markdown versions of Silo's Collected Works, as found in original website [http://silo.net/en/collected_works/index](http://silo.net/en/collected_works/index)
+these are the Markdown versions of Silo's Works, as found in original website [http://silo.net/](http://silo.net/)
 
 we just corrected some double space.
-
 
 ## Why Markdown?
 
@@ -17,4 +16,4 @@ We are planning to convert ALL Silo's books into Markdown format.
 Using GitHub we can allow others to help and keep track of all changes.
 
 ## Collaboration
-this project is maintained at [https://github.com/SiloBooks/CollectedWorks](https://github.com/SiloBooks/CollectedWorks) by Stefano Cecere <stefano.cecere@gmail.com>
+this project is maintained at [https://github.com/Siloist/SiloArchive](https://github.com/siloist/SiloArchive) by Stefano Cecere <https://github.com/stefanocecere/>
