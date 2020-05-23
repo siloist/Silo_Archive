@@ -1,5 +1,4 @@
 # Silo's Archive
----
 
 these are the Markdown versions of Silo's Works, as found in original website [http://silo.net/](http://silo.net/)
 
